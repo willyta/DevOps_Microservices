@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![willyta](https://circleci.com/gh/willyta/DevOps_Microservices.svg?style=svg)](https://app.circleci.com/pipelines/github/omonoboigbator/DevOps_Microservices)
 
 ## Project Overview
 
